@@ -23,7 +23,7 @@ This project presents a **Connect-4 Game** developed using Java's **Swing** and 
 
 - About Section:<br>  ![image](https://github.com/user-attachments/assets/d5627d82-3cc1-4651-a274-e7f8c88f574b)
 
-- Translate Option: This translate the menu options from English to French ![image](https://github.com/user-attachments/assets/a550c6f1-1646-4e1e-88c5-9a117cbe84c8)
+- Translate Option: This translate the menu options from English to French <br>![image](https://github.com/user-attachments/assets/a550c6f1-1646-4e1e-88c5-9a117cbe84c8)
   
 - Exit option: Exits the application.
   
